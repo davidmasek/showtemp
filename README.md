@@ -4,7 +4,7 @@ Simple utility for displaying current CPU temperature.
 
 ## Requirements
 
-Tested on Ubuntu 20.04 with 3.9. Depedends on `psutil` package.
+Tested on Ubuntu 20.04 with Python 3.9. Depedends on `psutil` package. I expect this to work on most recent mainstream linux systems.
 
 ## Installation
 
